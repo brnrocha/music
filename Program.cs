@@ -6,4 +6,3 @@ string sobrenome = "Rocha";
 Console.WriteLine(mensagemDeBoasVindas);
 Console.WriteLine(curso);
 Console.WriteLine(nome + sobrenome);
-Console.WriteLine("Nome dos instrutores");
